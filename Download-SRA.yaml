@@ -1,0 +1,13 @@
+wd:
+    /data/home/visitor/maize/maize/DNA_seq/snakemake/
+
+rd:
+    /data/home/visitor/maize/maize/DNA_seq/snakemake/
+threads:
+    10
+ref:
+    genome
+refdir:
+    /data/home/visitor/maize/maize/DNA_seq/snakemake/genome/
+fastp:
+    qualified_quality_phred: "15"
